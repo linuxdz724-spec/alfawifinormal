@@ -348,7 +348,7 @@ ${message}
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const botToken =8331599745:AAEc2S3CutUhVlgZnzEtapBEBbVM5Fjm0-4";
+    const botToken = "8331599745:AAEc2S3CutUhVlgZnzEtapBEBbVM5Fjm0-4";
     const chatId = "-4909826688";
     
     const services = [
